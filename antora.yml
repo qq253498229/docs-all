@@ -4,6 +4,7 @@ version: '0.0.1'
 start_page: ROOT:index.adoc
 nav:
   - modules/ROOT/nav.adoc
+  - modules/xiuxian/nav.adoc
 asciidoc:
   attributes:
     page-toclevels: 3
